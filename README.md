@@ -1,21 +1,21 @@
 # Jiabao Zou — Personal Website
 
-个人主页：**https://sky229-ss.github.io/**
+Website: **https://sky229-ss.github.io/**
 
-A responsive, dependency-free personal website introducing Jiabao Zou and the Lian Tu desktop companion project.
+An English-language, responsive personal website introducing Jiabao Zou and the Lian Tu desktop companion project.
 
-## 更新内容
+## Updating the website
 
-- `index.html`：姓名、个人介绍和项目内容。
-- `style.css`：颜色、字体、布局和移动端样式。
-- `lian-tu.png`、`lian-tu-wave.gif`：Lian Tu 项目展示素材。
+- `index.html`: Personal introduction, project details, navigation, and page metadata.
+- `style.css`: Colors, typography, layout, and responsive styles.
+- `lian-tu.png` and `lian-tu-wave.gif`: Lian Tu project artwork and animation.
 
-在 GitHub 上编辑并提交文件后，GitHub Pages 会自动重新发布。发布来源为 `main` 分支的根目录。
+Edit and commit these files on GitHub to publish updates automatically. GitHub Pages serves the root directory of the `main` branch.
 
-## 素材与信息来源
+## Sources and credits
 
-个人公开资料：https://github.com/SKY229-ss
+Public profile: https://github.com/SKY229-ss
 
-Lian Tu 项目与原始素材：https://github.com/SKY229-ss/lian-tu
+Lian Tu project and original assets: https://github.com/SKY229-ss/lian-tu
 
 Artwork and animation are reused from the owner's Lian Tu repository at commit `95070d55c00eed8a0e48ddbaaed8746617e9bba0`. No third-party tracking, external fonts, build tools, or runtime API calls are used.
