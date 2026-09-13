@@ -1,8 +1,8 @@
-# Jiabao Zou — Personal Website
+# SKY — Personal Website
 
 Website: **https://sky229-ss.github.io/**
 
-An English-language, responsive personal website introducing Jiabao Zou and the Lian Tu desktop companion project.
+An English-language, responsive personal website introducing SKY and the Lian Tu desktop companion project.
 
 ## Updating the website
 
